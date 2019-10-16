@@ -17,7 +17,7 @@ if choice == "decode":
         if letter == ' ':
             encoded = encoded + ' '
         else:
-            x = letTers.index(letter) - shift
+            x = letters.index(letter) - shift
             encoded = encoded + letters[x]
 
 print(encoded)
