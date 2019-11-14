@@ -74,19 +74,19 @@ Be prepared to answer questions such as:
 - "why did you select those visualizations and what did you learn from each of them?"
 
 ## Project Checklist:
-- [ ] Use data from at least two sources
-   - [ ] Establish naming conventions for variables and datasets
-   - [ ] Clean dataset & record parameters used to clean the data
-     - [ ] You may use Pandas or Python functions
-     - [ ] Document every step of the cleaning process
-     - [ ] Create at least _two new features_ that were not present in the original data sets
-- [ ] Use Pandas and Numpy to generate useful metrics for comparing films
+- [x] Use data from at least two sources
+   - [x] Establish naming conventions for variables and datasets
+   - [x] Clean dataset & record parameters used to clean the data
+     - [x] You may use Pandas or Python functions
+     - [x] Document every step of the cleaning process
+     - [x] Create at least _two new features_ that were not present in the original data sets
+- [x] Use Pandas and Numpy to generate useful metrics for comparing films
 
-- [ ] Posted to git repository:
+- [x] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
-   - [ ] At least 10 commits
-     - [ ] Must include short, descriptive commit messages
-     - [ ] Each project member should commit at least once
+   - [x] At least 10 commits
+     - [x] Must include short, descriptive commit messages
+     - [x] Each project member should commit at least once
    - [ ] A Jupyter notebook targeted to a technical audience that contains
      - [ ] Clean and commented code so an independent party can replicate your analysis and justify your analytical choices
      - [ ] Code should follow Pep8 standards
@@ -98,11 +98,11 @@ Be prepared to answer questions such as:
      - [ ] 2 meaningful summary tables using Pandas
      - [ ] At least four actionable insights (What type of films should they be looking to produce? What should the budget requirements be? Should they recruit certain actors for their films?)
    - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
-     - [ ] Apply consistent and effective formatting to create a “professional” appearing deck
-     - [ ] Write an abbreviated high-level overview of methodology
-     - [ ] Justify at least 2 concrete recommendations 
-     - [ ] include exported visualizations from analysis
-     - [ ] Target the presentation to a _non-technical audience_, avoid jargon
+     - [x] Apply consistent and effective formatting to create a “professional” appearing deck
+     - [x] Write an abbreviated high-level overview of methodology
+     - [x] Justify at least 2 concrete recommendations 
+     - [x] include exported visualizations from analysis
+     - [x] Target the presentation to a _non-technical audience_, avoid jargon
      - [ ] Take no more than 5 minutes to present
  
 ## Specifics:
